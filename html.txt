@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             text-align: center;
-            background-color: #f4f4f4;
+            background-color: #e75fe7;
         }
 
         header {
